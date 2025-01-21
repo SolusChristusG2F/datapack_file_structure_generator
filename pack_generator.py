@@ -92,7 +92,7 @@ def set_user_format(func_a, func_b, func_c):
         return 0
 
 #getting user's desired path, pack name, pack version, and namespace
-print("Welcome to SolusChristusG2F's Minecraft Datapack Wizard!\n")
+print("Welcome to SolusChristusG2F's Minecraft Datapack Generator!\n")
 user_path = str(input("Where would you like to create a data pack? Input a file path. (You can input an existing file path or a new one. If it is new, the application will create it).\nIf your path is detected to be invalid, the datapack will be created within a datapacks folder contained in the same\nfolder as the application.\n"))
 
 if(platform.system() == "Linux" and not user_path.startswith("/")
