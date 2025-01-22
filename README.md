@@ -15,6 +15,6 @@
   </ol>
   <li>After running the application, simply follow the instructions, input your desired path, name, namespace, and version, and generate a datapack!</li>
 </ol>
-<p>Feel free to report any bugs that you find. This is my first time writing something like this in Python, and my first time uploading to GitHub.</p>
+<p>Feel free to report any bugs that you find and give any feedback you feel is necessary. This is my first time writing something like this in Python, and my first time uploading to GitHub.</p>
 <p>Glory to God alone!</p>
 <p>John 3:16-18</p>
