@@ -5,7 +5,7 @@
   <li>Navigate to the project's releases by clicking "Releases," located to the top right of this file's text.</li>
   <li>Download the .ZIP file for the latest release by clicking "Source code (zip)."</li>
   <li>Extract the .ZIP file to your desired path.</li>
-  <li>From here, you can either run the executable file (Windows only), which will open the application in your Command Prompt, or run the .py file in your Command Prompt (Mac and Linux), which requires Python 3.13.1 to be downloaded on your system. To run the executable, simply double click it in your File Explorer. To run the .py file:</li>
+  <li>From here, you can either run the executable file (Windows only), which will open the application in your Command Prompt, or run the .py file in your Command Prompt (Required for Mac and Linux), which requires Python 3.13.1 to be downloaded on your system. To run the executable, simply double click it in your File Explorer. To run the .py file:</li>
   <ol>
     <li>Make sure that Python 1.13.1 is installed on your system.</li>
     <li>Open your Command Prompt.</li>
