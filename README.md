@@ -2,7 +2,8 @@
 <p>An open-source Python console application created to provide a quick, easy way to generate the file structure of a Minecraft datapack for any version of the game.<p>
 <h3>Instructions for use:</h3>
 <ol>
-  <li>Download the .ZIP file by clicking "Code" > "Download ZIP."</li>
+  <li>Navigate to the project's releases by clicking "Releases," located to the top right of this file's text.</li>
+  <li>Download the .ZIP file by clicking "Source code (zip)."</li>
   <li>Extract the .ZIP file to your desired path.</li>
   <li>From here, you can either run the executable file (Windows only), which will open the application in your Command Prompt, or run the .py file in your Command Prompt (Mac and Linux), which requires Python 3.13.1 to be downloaded on your system. To run the executable, simply double click it in your File Explorer. To run the .py file:</li>
   <ol>
