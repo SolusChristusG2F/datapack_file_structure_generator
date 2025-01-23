@@ -1,5 +1,5 @@
 <h1>SolusChristusG2F's Datapack Generator</h1>
-<p>An open-source Python console application created to provide a quick, easy way to generate the file structure of a Minecraft datapack for any version of the game, and created as my first release-ready programming project.<p>
+<p>As of 1/23/25, this project will no longer be updated and released in Python. The program will be coded in C# from here on out. An open-source Python console application created to provide a quick, easy way to generate the file structure of a Minecraft datapack for any version of the game, and created as my first release-ready programming project.<p>
 <h3>Instructions for use:</h3>
 <ol>
   <li>Navigate to the project's releases by clicking "Releases," located to the top right of this file's text.</li>
